@@ -1,0 +1,18 @@
+
+{
+    "name": "frista28/zhigulin",
+    "type": "library",
+    "authors": [
+        {
+            "name": "zhigulin",
+            "email": "dr.tigh-oleg@yandex.ru"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "zhigulin\\": ""
+        }
+    }
+}
